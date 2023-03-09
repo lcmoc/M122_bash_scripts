@@ -13,9 +13,9 @@ while [ $guess_count -lt $attempts ]; do
   read guess
 
 
-  if ! [[ "$guess" =~ ^[0-9]+$ ]]; then
-    echo "Please enter a valid number."
-        guess_count=$((guess_count+1))
+if ! [[ "$guess" =~ ^[0-9]+$ ]] || [ "$guess" -gt 10 ]; then
+    echo "Please enter a valid number between 1 and 100"
+    guess_count=$((guess_count+1))
     continue
   fi
 
