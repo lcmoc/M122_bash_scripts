@@ -8,7 +8,7 @@ while true; do
   read guess
 
 if ! [[ "$guess" =~ ^[0-9]+$ ]] || [ "$guess" -gt 10 ]; then
-    echo "Please enter a valid number between 1 and 100"
+    echo "Please enter a valid number between 1 and 10"
     continue
   fi
 
