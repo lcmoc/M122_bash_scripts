@@ -1,0 +1,6 @@
+total 0
+-rw-r--r--  1 mcl  staff  0 16 Mär 16:12 ls-l.txt
+-rw-r--r--  1 mcl  staff  0 16 Mär 16:04 test1.txt
+-rw-r--r--  1 mcl  staff  0 16 Mär 16:04 test2.txt
+-rw-r--r--@ 1 mcl  staff  0 16 Mär 16:04 test3.txt
+-rw-r--r--  1 mcl  staff  0 16 Mär 16:05 test4.txt
