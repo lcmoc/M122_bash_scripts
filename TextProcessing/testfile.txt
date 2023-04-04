@@ -1,0 +1,15 @@
+3 This line occurs three times.
+3 This line occurs three times.
+3 This line occurs three times.
+1 This line occurs only once.
+4 This line occurs four times.
+4 This line occurs four times.
+4 This line occurs four times.
+4 This line occurs four times.
+2 This line occurs twice.
+2 This line occurs twice.
+5 This line occurs five times.
+5 This line occurs five times.
+5 This line occurs five times.
+5 This line occurs five times.
+5 This line occurs five times.
