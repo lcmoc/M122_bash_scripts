@@ -102,4 +102,19 @@
 - `curl` - Lädt Dateien von einer URL herunter.
 
 ## Befehele der Dokumentation
-g
+- `while`: - Der while-Befehl wird verwendet, um eine Schleife zu erstellen, die wiederholt ausgeführt wird, solange eine bestimmte Bedingung erfüllt ist.
+- `do`: - Der do-Befehl wird in Verbindung mit dem while-Befehl verwendet und gibt an, welche Aktionen innerhalb der Schleife ausgeführt werden sollen.
+- `if`: - Der if-Befehl wird verwendet, um eine Bedingung zu testen und abhängig vom Ergebnis verschiedene Aktionen auszuführen.
+- `=~`: - Der =~-Befehl wird verwendet, um eine reguläre Ausdruck Übereinstimmung in einer Bedingung zu testen.
+- `read`: - Der read-Befehl wird verwendet, um Benutzereingaben in eine Variable zu speichern.
+- `continue`: - Der continue-Befehl wird innerhalb einer Schleife verwendet, um die aktuelle Iteration zu beenden und zur nächsten Iteration fortzufahren.
+- `echo`: - Der echo-Befehl wird verwendet, um Text auf dem Bildschirm auszugeben.
+- `then`: - Der then-Befehl wird in Verbindung mit dem if-Befehl verwendet und gibt an, welche Aktionen ausgeführt werden sollen, wenn die Bedingung wahr ist.
+- `fi`: - Der fi-Befehl beendet einen if-Block.
+- `break`: - Der break-Befehl wird innerhalb einer Schleife verwendet, um die Schleife vorzeitig zu beenden.
+- `^[0-9]+$`: - Dies ist ein regulärer Ausdruck, der auf eine Zeichenkette passt, die nur aus Ziffern besteht.
+- `RANDOM`: - Die Variable RANDOM enthält eine zufällige Ganzzahl.
+- `%`: - Der Modulo-Operator % wird verwendet, um den Rest einer Division zu berechnen.
+- `+`: - Der Plus-Operator + wird verwendet, um zwei Zahlen zu addieren.
+- `-lt`: - Der Vergleichsoperator -lt wird verwendet, um zu testen, ob eine Zahl kleiner als eine andere Zahl ist.
+- `-gt`: - Der Vergleichsoperator -gt wird verwendet, um zu testen, ob eine Zahl größer als eine andere Zahl ist.
