@@ -130,5 +130,3 @@
 - `--apparent-size`: Gibt die scheinbare Größe einer Datei aus.
 - `-s`: Gibt die Gesamtgröße eines Verzeichnisses an.
 - `-h`: Gibt die Größenangabe in einer für Menschen lesbaren Form aus.
-
-
