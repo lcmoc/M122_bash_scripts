@@ -118,3 +118,17 @@
 - `+`: - Der Plus-Operator + wird verwendet, um zwei Zahlen zu addieren.
 - `-lt`: - Der Vergleichsoperator -lt wird verwendet, um zu testen, ob eine Zahl kleiner als eine andere Zahl ist.
 - `-gt`: - Der Vergleichsoperator -gt wird verwendet, um zu testen, ob eine Zahl größer als eine andere Zahl ist.
+- `ls`: Listet den Inhalt eines Verzeichnisses auf.
+- `rmdir`: Entfernt ein leeres Verzeichnis.
+- `>`: Lenkt die Standardausgabe um und schreibt sie in eine Datei.
+- `2>`: Lenkt die Standardfehlerausgabe um und schreibt sie in eine Datei.
+- `grep`: Sucht nach einer bestimmten Zeichenkette oder einem regulären Ausdruck in einer Datei oder dem Ausgabestrom einer anderen Anwendung.
+- `awk`: Eine textorientierte Programmiersprache, die zum Verarbeiten und Analysieren von Textdateien verwendet wird.
+- `sed`: Ein Texteditor, der häufig zum Bearbeiten von Textdateien in Skripten oder in der Kommandozeile verwendet wird.
+- `cat`: Ein Befehl, der verwendet wird, um den Inhalt von Dateien anzuzeigen oder zu kombinieren.
+- `du`: Gibt die Größe von Dateien und Verzeichnissen auf der Festplatte aus.
+- `--apparent-size`: Gibt die scheinbare Größe einer Datei aus.
+- `-s`: Gibt die Gesamtgröße eines Verzeichnisses an.
+- `-h`: Gibt die Größenangabe in einer für Menschen lesbaren Form aus.
+
+
