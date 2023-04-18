@@ -13,7 +13,4 @@ then
     exit 1
 fi
 
-input="$1"
-output="$2"
-
-grep '^2' "$input" | grep -a -v "26" | grep -Eo '^[A-Z][0-9]{6}' | cut -f3- > "$output"
+grep '^2' "$input" | grep -a -v "26" | cut -f3- | grep -Eo '[A-Z][0-9]{6}\b.*' > "$output"
