@@ -1,3 +1,9 @@
+#!/bin/bash
+
+# Script: convert Data 02 Prameter
+# Author: Luca Mock
+# Datum: 13.04.2023
+
 input="$1"
 output="$2"
 
@@ -14,4 +20,3 @@ fi
 grep -a -w "^2" $input > $output
 
 exit 0
-

@@ -1,4 +1,9 @@
 #!/bin/bash
+
+# Script: convert Data 04 Spalten weg
+# Author: Luca Mock
+# Datum: 18.04.2023
+
 input="$1"
 output="$2"
 

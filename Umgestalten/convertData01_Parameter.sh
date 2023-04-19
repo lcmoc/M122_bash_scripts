@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script: convert Data 01 Prameter
+# Author: Luca Mock
+# Datum: 13.04.2023
+
 input="$1"
 output="$2"
 
@@ -14,4 +18,3 @@ then
 fi
 
 exit 0
-

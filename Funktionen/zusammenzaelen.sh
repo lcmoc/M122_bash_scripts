@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script: Zusammenzählen
+# Author: Luca Mock
+# Datum: 18.04.2023
+
 zaehleVonBis() {
     start=$1
     ende=$2

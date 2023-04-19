@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script: du bytes file size decreasing
+# Author: Luca Mock
+# Datum: 4.04.2023
+
 if [ $# -eq 0 ]; then
   echo "Usage: $0 <directory>"
   echo "Dieses Script listed ab einem Verzeichnis rekursiv die summe des Speicherbedarfs auf."

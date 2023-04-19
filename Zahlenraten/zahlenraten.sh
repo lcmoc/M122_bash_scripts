@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script Zahlenraten
+# Author: Luca Mock
+# Datum: 09.03.2023
+
 number=$((RANDOM % 10 + 1))
 
 echo "Guess a number between 1 and 10:"

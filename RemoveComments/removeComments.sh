@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script: rmeove comments
+# Author: Luca Mock
+# Datum: 4.04.2023
+
 # Prüfe, ob eine Datei angegeben wurde
 if [ -z "$1" ]; then
   echo "Bitte geben Sie eine Datei an."

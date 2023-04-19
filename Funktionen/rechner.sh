@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script: Rechner
+# Author: Luca Mock
+# Datum: 18.04.2023
+
 rechnen() {
     operation=$1
     zahl1=$2

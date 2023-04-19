@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script: convert Data 03 alle ohne 26
+# Author: Luca Mock
+# Datum: 13.04.2023
+
 input="$1"
 output="$2"
 

@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script: Zahlenraten Schwierigkeit 
+# Author: Luca Mock
+# Datum: 09.03.2023
+
 echo "Choose the difficulty level:"
 echo "1. Easy (10 attempts)"
 echo "2. Medium (7 attempts)"

@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Script Zahlenraten Versuche
+# Author: Luca Mock
+# Datum: 09.03.2023
+
 number=$((RANDOM % 10 + 1))
 attempts=3 # Anzahl der Versuche
 guess_count=0
