@@ -15,3 +15,6 @@ Für einige wenige Zusatzaufgaben ist es eventuell noch benötigt die coreutils 
 
 # Dokumentation
 https://docs.google.com/document/d/1bb8WNbQtJNMRgH0E3kY_T2jueaIh0IjT-JjVkQdreLM/edit?usp=sharing
+
+# Befehlsübersicht
+https://github.com/lcmoc/M122_bash_scripts/blob/main/befehlsuebersicht.md
