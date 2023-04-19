@@ -130,3 +130,30 @@
 - `--apparent-size`: Gibt die scheinbare Größe einer Datei aus.
 - `-s`: Gibt die Gesamtgröße eines Verzeichnisses an.
 - `-h`: Gibt die Größenangabe in einer für Menschen lesbaren Form aus.
+- `du -k`: - Gibt die Größenangabe in Kilobytes aus.
+- `join`: - Verbindet die Zeilen zweier Dateien auf der Basis eines gemeinsamen Felds.
+- `nl`: - Fügt Zeilennummern zu einer Datei hinzu.
+- `man`: - Zeigt die Dokumentation (Manual) eines Befehls an.
+- `grep`: - Durchsucht eine Datei nach einem bestimmten Muster oder Ausdruck.
+- `grep -a`: - Durchsucht eine Datei als Text, auch wenn sie binär ist.
+- `grep -v`: - Gibt die Zeilen zurück, die das angegebene Muster oder den Ausdruck nicht enthalten.
+- `exit`: - Beendet die aktuelle Shell-Sitzung.
+- `cut`: - Extrahiert bestimmte Spalten oder Felder aus einer Textdatei oder einem Ausgabestream.
+- `cut -f`: - Gibt bestimmte Felder aus einer Textdatei oder einem Ausgabestream zurück.
+- `grep -Eo`: - Durchsucht eine Datei nach einem regulären Ausdruck und gibt nur die übereinstimmenden Teile zurück.
+- `read`: - Liest eine Zeile von der Standardeingabe ein und weist sie einer Variablen zu.
+- `read -p`: - Gibt eine Nachricht aus und liest dann eine Zeile von der Standardeingabe ein.
+- `echo`: - Gibt eine Nachricht auf der Standardausgabe aus.
+- `ls`: - Listet den Inhalt eines Verzeichnisses auf.
+- `ls -l`: - Listet den Inhalt eines Verzeichnisses auf und gibt zusätzliche Informationen für jeden Eintrag aus.
+- `sed`: - Bearbeitet Textzeilen und gibt sie auf der Standardausgabe aus.
+- `sed -e`: - Führt eine angegebene Bearbeitung an Textzeilen durch.
+- `find`: - Durchsucht ein Verzeichnis nach Dateien oder Verzeichnissen, die bestimmten Kriterien entsprechen.
+- `exec`: - Führt eine Operation auf jedem gefundenen Element aus, das von find zurückgegeben wird.
+- `sort`: - Sortiert die Zeilen einer Textdatei oder eines Ausgabestreams.
+- `sort -n`: - Sortiert die Zeilen numerisch.
+- `sort -r`: - Sortiert die Zeilen in umgekehrter Reihenfolge.
+- `awk`: - Verarbeitet und bearbeitet Textzeilen basierend auf einer angegebenen Muster-Zuweisung.
+- `xargs`: - Verarbeitet Argumente und führt einen Befehl für jedes Argument aus.
+- `uniq`: - Filtert doppelte Zeilen aus einer Textdatei oder einem Ausgabestream heraus.
+- `tee`: - Schreibt eine Kopie der Ausgabe in eine Datei und gibt sie auf der Standardausgabe aus.
