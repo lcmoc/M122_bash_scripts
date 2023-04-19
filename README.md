@@ -14,7 +14,11 @@ Für einige wenige Zusatzaufgaben ist es eventuell noch benötigt die coreutils 
 - Coreutils: https://formulae.brew.sh/formula/coreutils
 
 # Dokumentation
-https://docs.google.com/document/d/1bb8WNbQtJNMRgH0E3kY_T2jueaIh0IjT-JjVkQdreLM/edit?usp=sharing
+- Google Docs: https://docs.google.com/document/d/1bb8WNbQtJNMRgH0E3kY_T2jueaIh0IjT-JjVkQdreLM/edit?usp=sharing
+- PDF: https://github.com/lcmoc/M122_bash_scripts/blob/main/Modul%20122%20Bash%20Scripts.pdf
 
 # Befehlsübersicht
 https://github.com/lcmoc/M122_bash_scripts/blob/main/befehlsuebersicht.md
+
+# Aufgaben der Dokumentation
+https://github.com/lcmoc/M122_bash_scripts/tree/main/Aufgaben
